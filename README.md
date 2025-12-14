@@ -5,8 +5,10 @@ This study provides a quantitative comparison of three advanced Large Language M
 
 Contents of this repository:
 
-[] AI-Generated Source Code: The raw, unmodified Python output produced by each model, allowing for direct analysis of coding styles, verbosity, and structural differences.
-[] Metric Calculation Scripts: The specific algorithms and scripts used to compute the Chapter 3 evaluation metrics, including Lines of Code (LOC) and Line Processing Efficiency (LPE).
-[] Unit Test Suite: The unittest framework and test cases used to measure Functional Correctness across 10 key game scenarios (e.g., collision detection, wall kicks, and line clearing).
+- AI-Generated Source Code: The raw, unmodified Python output produced by each model, allowing for direct analysis of coding styles, verbosity, and structural differences.
+
+- Metric Calculation Scripts: The specific algorithms and scripts used to compute the Chapter 3 evaluation metrics, including Lines of Code (LOC) and Line Processing Efficiency (LPE).
+
+- Unit Test Suite: The unittest framework and test cases used to measure Functional Correctness across 10 key game scenarios (e.g., collision detection, wall kicks, and line clearing).
 
 This project highlights the trade-offs between code complexity and reliability, offering evidence-based insights for developers selecting AI coding assistants.
